@@ -1,0 +1,13 @@
+﻿  DrawPixel.cpp
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(123): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(124): warning C4244: '=': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(278): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(288): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(293): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(298): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(303): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(308): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(313): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(318): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+c:\users\g0944\desktop\6_15_当たり\drawpixel.cpp(322): warning C4244: '引数': 'float' から 'int' への変換です。データが失われる可能性があります。
+  test.vcxproj -> C:\Users\G0944\Desktop\6_15_当たり\Debug\test.exe
